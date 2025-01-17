@@ -1,0 +1,7 @@
+cradle:
+    stack:
+        - path: "./src"
+          component: "mse-fp-hw14:lib"
+
+        - path: "./test"
+          component: "mse-fp-hw14:test:mse-fp-hw14-test"
